@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InvEnchant:jar">
+    <output-path>$PROJECT_DIR$/../../Plugins/Server/plugins</output-path>
+    <root id="archive" name="InvEnchant.jar">
+      <element id="module-output" name="InvEnchant" />
+    </root>
+  </artifact>
+</component>

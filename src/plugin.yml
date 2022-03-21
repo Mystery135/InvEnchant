@@ -1,0 +1,11 @@
+main: com.websiteofgames.invenchant.InvEnchant
+version: 1.1
+name: InvEnchant
+api-version: 1.18
+commands:
+  setinvenchant:
+    usage: /<command> <true/false>
+    description: Toggles the ability to enchant items in your inventory
+    permission: invenchant.setinvenchant
+    permission-message: §cYou do not have the permission to do that!
+
